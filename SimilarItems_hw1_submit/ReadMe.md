@@ -11,7 +11,8 @@ framework and the language of your choice. Below, we give a description of sampl
 stages of finding textually similar documents. You do not have to develop the exact same classes and data types as described below.
 Feel free to use data structures that suit you best.
 
-    A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,computes a hash value for each        unique    shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
+    A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,computes a hash value 
+    for each unique shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
     
    A class CompareSets that estimates the Jaccard similarity of two sets of integers – two sets of hashed shingles.
 
