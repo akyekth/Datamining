@@ -1,0 +1,87 @@
+Path: cantaloupe.srv.cs.cmu.edu!das-news.harvard.edu!ogicse!decwrl!concert!gatech!pitt.edu!pitt!geb
+From: geb@cs.pitt.edu (Gordon Banks)
+Newsgroups: sci.med
+Subject: Re: Update (Help!) [was "What is This [Is it Lyme's?]"]
+Message-ID: <19436@pitt.UUCP>
+Date: 6 Apr 93 16:16:19 GMT
+Article-I.D.: pitt.19436
+References: <1993Mar24.182145.11004@equator.com> <2653@hsdndev.UUCP> <1993Mar29.181958.3224@equator.com>
+Sender: news@cs.pitt.edu
+Reply-To: geb@cs.pitt.edu (Gordon Banks)
+Organization: Univ. of Pittsburgh Computer Science
+Lines: 42
+
+In article <1993Mar29.181958.3224@equator.com> jod@equator.com (John Setel O'Donnell) writes:
+>
+>I shouldn't have to be posting here.  Physicians should know the Lyme
+>literature beyond Steere & co's denial merry-go-round.  Patients
+>should get correctly diagnosed and treated.
+>
+
+Why do you think Steere is doing this?  Isn't he acting in good faith?
+After all, as the "discoverer" of Lyme for all intents and purposes,
+the more famous Lyme gets, the more famous Steere gets.  I don't
+see the ulterior motive here.  It is easy for me to see it the
+those physicians who call everything lyme and treat everything.
+There is a lot of money involved.
+
+>I'm a computer engineer, not a doctor (,Jim).  I was building a 
+>computer manufacturing company when I got Lyme. I lost several 
+>years of my life to near-total disability; partially as a result,
+>the company failed, taking with it over 150 jobs, my savings,
+>and everything I'd worked for for years.  I'm one of the "lucky"
+>ones in that I found a physician through the Lyme foundation
+>and now can work almost full-time, although I have persistent
+>infection and still suffer a variety of sypmtoms.  And now
+>I try to follow the Lyme literature.
+>
+
+Well, it is tragic what has happened to you, but it doesn't
+necessarily make you the most objective source of information
+about it.  If your whole life is focussed around this, you
+may be too emotionally involved to be advising other people
+who may or may not have Lyme.  Certainly advocacy of more research
+on Lyme would not be out of order, though, and people like you
+can be very effective there.
+
+I have a 42 yr old male friend, misdiagnosed as having
+ osteopporosis for two years, who recently found out that his
+ illness is the rare Gaucher's disease. 
+
+Gaucher's disease symptoms include: brittle bones (he lost 9 
+ inches off his hieght); enlarged liver and spleen; internal
+ bleeding; and fatigue (all the time). The problem (in Type 1) is
+ attributed to a genetic mutation where there is a lack of the
+ enzyme glucocerebroside in macrophages so the cells swell up.
+ This will eventually cause death.
+
+Enyzme replacement therapy has been successfully developed and
+ approved by the FDA in the last few years so that those patients
+ administered with this drug (called Ceredase) report a remarkable
+ improvement in their condition. Ceredase, which is manufactured
+ by biotech biggy company--Genzyme--costs the patient $380,000
+ per year. Gaucher's disease has justifyably been called "the most
+ expensive disease in the world".
+
+NEED INFO:
+I have researched Gaucher's disease at the library but am relying
+ on netlanders to provide me with any additional information:
+**news, stories, reports
+**people you know with this disease
+**ideas, articles about Genzyme Corp, how to get a hold of
+   enough money to buy some, programs available to help with
+   costs.
+**Basically ANY HELP YOU CAN OFFER
+
+Thanks so very much!
+
+Deborah 
+
+
+
+
+-- 
+----------------------------------------------------------------------------
+Gordon Banks  N3JXP      | "Skepticism is the chastity of the intellect, and
+geb@cadre.dsl.pitt.edu   |  it is shameful to surrender it too soon." 
+----------------------------------------------------------------------------
