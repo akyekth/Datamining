@@ -1,5 +1,5 @@
-# Implement the stages of finding textually similar documents based on Jaccard similarity using the 
- shingling, minhashing, and locality-sensitive hashing (LSH) techniques and corresponding algorithms. 
+# Implement the stages of finding textually similar documents based on Jaccard similarity 
+##using the Shingling, minhashing, and locality-sensitive hashing (LSH) techniques and corresponding algorithms. 
  The implementation can be done using any big data processing framework,
  such as Apache Spark, scala
  
@@ -11,13 +11,12 @@ framework and the language of your choice. Below, we give a description of sampl
 stages of finding textually similar documents. You do not have to develop the exact same classes and data types as described below.
 Feel free to use data structures that suit you best.
 
-###A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,
-    computes a hash value for each unique shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
+###A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,computes a hash value for each unique ###shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
     
 ###A class CompareSets that estimates the Jaccard similarity of two sets of integers – two sets of hashed shingles.
 
-###A class MinHashing that builds a minHash signature (in the form of a vector or a set) of a given length n
-      from a given set of integers (a set of hashed shingles).
+###(A class MinHashing that builds a minHash signature (in the form of a vector or a set) of a given length n from a given
+            set of integers (a set of hashed shingles).)
       
 ###A class CompareSignatures that estimates similarity of two integer vectors –
      minhash signatures – as a fraction of components, in which they agree.
