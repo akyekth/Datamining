@@ -1,11 +1,11 @@
-# Implement the stages of finding textually similar documents based on Jaccard similarity 
-##using the Shingling, minhashing, and locality-sensitive hashing (LSH) techniques and corresponding algorithms. 
+## Implement the stages of finding textually similar documents based on Jaccard similarity 
+  using the Shingling, minhashing, and locality-sensitive hashing (LSH) techniques and corresponding algorithms. 
  The implementation can be done using any big data processing framework,
  such as Apache Spark, scala
  
  To test and evaluate your implementation, write a program that uses your implementation to find similar documents 
  in a corpus of 5-10 or more documents such as web pages or emails.
- ##
+ ###
 The stages should be implemented as a collection of classes, modules, functions or procedures depending the 
 framework and the language of your choice. Below, we give a description of sample classes that implement different
 stages of finding textually similar documents. You do not have to develop the exact same classes and data types as described below.
