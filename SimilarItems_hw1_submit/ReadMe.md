@@ -21,9 +21,11 @@ Feel free to use data structures that suit you best.
 ###A class CompareSignatures that estimates similarity of two integer vectors –
      minhash signatures – as a fraction of components, in which they agree.
      
-### A class LSH that implements the LSH technique: given a collection of minhash signatures (integer vectors) 
+###
+   A class LSH that implements the LSH technique: given a collection of minhash signatures (integer vectors) 
    and a similarity threshold t, the LSH class (using banding and hashing) finds all candidate pairs of signatures 
    that agree on at least fraction t of their components.
+ 
    
 To test and evaluate scalability (the execution time versus the size of input dataset) of your implementation,
   write a program that uses your classes to find similar documents in a corpus of 5-10 documents.
