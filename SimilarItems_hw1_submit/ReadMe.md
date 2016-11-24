@@ -11,17 +11,17 @@ framework and the language of your choice. Below, we give a description of sampl
 stages of finding textually similar documents. You do not have to develop the exact same classes and data types as described below.
 Feel free to use data structures that suit you best.
 
-###A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,computes a hash value for each unique ###shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
+    A class Shingling that constructs k–shingles of a given length k (e.g., 10) from a given document,computes a hash value for each        unique    shingle, and represents the document in the form of an ordered set of its hashed k-shingles.
     
-###A class CompareSets that estimates the Jaccard similarity of two sets of integers – two sets of hashed shingles.
+   A class CompareSets that estimates the Jaccard similarity of two sets of integers – two sets of hashed shingles.
 
-###(A class MinHashing that builds a minHash signature (in the form of a vector or a set) of a given length n from a given
+   A class MinHashing that builds a minHash signature (in the form of a vector or a set) of a given length n from a given
             set of integers (a set of hashed shingles).)
       
-###A class CompareSignatures that estimates similarity of two integer vectors –
+   A class CompareSignatures that estimates similarity of two integer vectors –
      minhash signatures – as a fraction of components, in which they agree.
      
-###
+
    A class LSH that implements the LSH technique: given a collection of minhash signatures (integer vectors) 
    and a similarity threshold t, the LSH class (using banding and hashing) finds all candidate pairs of signatures 
    that agree on at least fraction t of their components.
